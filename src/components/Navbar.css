@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    justify-content: start;
+}
+li{
+    margin-right: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+.active{
+    color: #FFA726;
+}
